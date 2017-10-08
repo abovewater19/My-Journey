@@ -5,4 +5,8 @@ Lots of learning happening here.
 
 <b>Books</b>
 
-
+<ul>
+  <li>
+  <a href="http://www.freetechbooks.com/">Free Tech Books</a>
+  </li>
+</ul>  
