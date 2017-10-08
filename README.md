@@ -9,4 +9,7 @@ Lots of learning happening here.
   <li>
   <a href="http://www.freetechbooks.com/">Free Tech Books</a>
   </li>
+  <li>
+  <a href="https://github.com/EbookFoundation/free-programming-books/blob/master/README.md">Free programming books</a>
+  </li>
 </ul>  
